@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Абонемент на Танцы</string>
+
+    <string name="barcode">Сканируйте ШтрихКод</string>
+    <string name="scan">Сканировать</string>
+    <string name="manage">Управление</string>
+
+    <string name="title_activity_manage">Управление клиентами</string>
+    <string name="manage_name">ФИО</string>
+    <string name="manage_type_label">Тип</string>
+    <string name="manage_type_prompt">Выберите...</string>
+    <string-array name="manage_type_array">
+        <item>Фиксированный</item>
+        <item>Гибкий</item>
+    </string-array>
+</resources>
